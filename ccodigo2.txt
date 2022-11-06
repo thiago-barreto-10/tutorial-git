@@ -1,1 +1,3 @@
 aprendendo a usar o git 06/11/2022
+já aprendi a subir os projetos. 
+o git serve como ponte que liga os arquivos do pc para o github 
